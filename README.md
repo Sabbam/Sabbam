@@ -1,3 +1,5 @@
+<img src="1707666310959.jpeg" alt="Image" align="center">
+
 <h1 align="center">Hi 👋, I'm Sabbam Chandraneel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="Developer.webp" alt="Image" align="center">
