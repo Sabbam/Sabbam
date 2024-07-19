@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbam" alt="sabbam" /></a> </p>
 
-- 🌱 I’m currently learning **React,JAVA,Python with DataScience,CyberSecurity**
+- 🌱 I’m currently learning **React Js, JAVA, Python with DataScience, CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://sabbam.github.io/Portfolio/home.html](https://sabbam.github.io/Portfolio/home.html)
 
 - 📝 I regularly write articles on [https://neelweb1.blogspot.com/](https://neelweb1.blogspot.com/)
 
+- 💬 Ask me about **HTML, CSS, React Js, Spring, Flutter**
+
 - 📫 How to reach me **sabbamchandraneel@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rDbcuA5NHeuwHBKTyst6GsSiStd_1LXD/view?usp=sharing](https://drive.google.com/file/d/1rDbcuA5NHeuwHBKTyst6GsSiStd_1LXD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
