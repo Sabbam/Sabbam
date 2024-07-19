@@ -4,7 +4,14 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="gif-unscreen.gif" alt="Image" align="right" width="300px">
-
+<style>
+  *{
+    background-color:black;
+    }
+  h1,p{
+    text:white;
+    }
+</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbam&label=Profile%20views&color=0e75b6&style=flat" alt="sabbam" /> </p>
 
