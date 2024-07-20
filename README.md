@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js, JAVA, Python with DataScience, CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://sabbam.github.io/Portfolio/home.html](https://sabbam.github.io/Portfolio/home.html)
+- 👨‍💻 All of my projects are available at [https://sabbam.github.io/Portfolio/scn/home.html](https://sabbam.github.io/Portfolio/scn/home.html)
 
 - 📝 I regularly write articles on [https://neelweb1.blogspot.com/](https://neelweb1.blogspot.com/)
 
