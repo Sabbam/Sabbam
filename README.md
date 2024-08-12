@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js, JAVA, Python with DataScience, CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://sabbam.github.io/Portfolio/scn/home.html](https://sabbam.github.io/Portfolio/scn/home.html)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/sabbamportfolio](https://tinyurl.com/sabbam-resume)
 
 - 📝 I regularly write articles on [https://neelweb1.blogspot.com/](https://neelweb1.blogspot.com/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sabbamchandraneel@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/sabbam-chandraneel](https://tinyurl.com/sabbam-chandraneel)
+- 📄 Know about my experiences [https://tinyurl.com/sabbam-resume](https://tinyurl.com/sabbam-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
