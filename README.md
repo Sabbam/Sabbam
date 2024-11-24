@@ -1,6 +1,6 @@
 <img src="1707666310959.jpeg" alt="Image" align="center">
 
-### <div align="center">A full-stack freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Sabbam Chandraneel, a  full-stack freelance developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Ai Travel Planner](https://tripsplan.netlify.app/)  
@@ -90,10 +90,15 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabbam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbam&hide_border=true&layout=compact" align="left" />  
+
 <br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sabbam&&style=flat-square" align="center" />
 </div>  
+<br/>  
+
   
 
 
