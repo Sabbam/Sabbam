@@ -1,6 +1,6 @@
 <img src="1707666310959.jpeg" alt="Image" align="center">
 
-### <div align="center">I'm Sabbam Chandraneel, a  full-stack freelance developer 👨‍💻 </div>  
+### <div align="center">A full-stack freelance developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Ai Travel Planner](https://tripsplan.netlify.app/)  
@@ -8,7 +8,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
+- ✨ For More Info Visit [My Portfolio](https://sabbam.github.io/Portfolio/scn/home.html)
 <br/>  
 
 
