@@ -91,33 +91,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabbam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sabbam&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
-
-
-            </a></div>  
-
-<br/>  
-
-
-<br />
-
-----
 
