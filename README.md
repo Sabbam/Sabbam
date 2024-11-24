@@ -10,6 +10,7 @@
   
 - ✨ For More Info Visit [My Portfolio](https://sabbam.github.io/Portfolio/scn/home.html)
 <br/>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbam&layout=compact&hide_border=true)
 
 
 ## My Skill Set  
