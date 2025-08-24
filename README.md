@@ -20,31 +20,50 @@ Pushing this README to that repo will render on your GitHub profile.
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Full+Stack+Developer;Senior+WordPress+Engineer;Odoo+ERP+Customizations;Flutter+%2B+Firebase+Apps" alt="typing animation" />
 </p>
 
----
-
 ## 🧰 Tech Stack (curated)
 
-<div align="center" style="margin: 20px 0;">
-  <!-- Main icons row (scaled smaller) -->
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,flutter,mongodb,nodejs,php,python,git,github,aws,vercel,netlify,linux,postgres,mysql,docker,postman&perline=12&theme=dark" 
-    alt="Tech icons" 
-    style="max-width: 600px; height: auto;" 
+<div align="center" style="margin:20px 0;">
+  <!-- Main icons row (medium size) -->
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,flutter,mongodb,nodejs,php,python,git,github,aws,vercel,netlify,linux,postgres,mysql,docker,postman&perline=12&theme=dark"
+    alt="Tech icons"
+    style="max-width:600px;height:auto;"
   />
 </div>
 
-<div align="center" style="margin: 16px 0;">
-  <!-- Extras row -->
-  <img 
-    src="./assets/stack-extras.svg" 
-    alt="Extra tech badges (REST API, Odoo, React Native, ChatGPT, DeepSeek, n8n, Power BI, SQL)" 
-    style="max-width: 620px; height: auto;" 
-  />
+<!-- Text-based badges (no images), inline CSS, dark-theme friendly -->
+<div align="center" style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:14px auto 0;max-width:820px;">
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>REST API
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>WordPress
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>Odoo
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>React Native
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>ChatGPT
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>DeepSeek
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>n8n
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>SQL
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
+    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>Power BI
+  </span>
 </div>
 
 ---
 
----
 
 
 ## 🚀 Snapshot
