@@ -1,7 +1,0 @@
-<svg width="980" height="70" viewBox="0 0 980 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated headline">
-  <rect width="100%" height="100%" rx="12" fill="#0b1220"/>
-  <text x="20" y="45" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif" font-size="26" font-weight="700" fill="#e2e8f0">
-    <tspan>Cloud Engineer · Full Stack · WordPress · Odoo · Flutter/AI</tspan>
-    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
-  </text>
-</svg>
