@@ -46,12 +46,6 @@ Pushing this README to that repo will render on your GitHub profile.
   <!-- React Native -->
   <img src="https://img.shields.io/badge/React%20Native-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=react&logoColor=white" alt="React Native" />
 
-  <!-- ChatGPT (OpenAI) -->
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=openai&logoColor=white" alt="ChatGPT / OpenAI" />
-
-  <!-- DeepSeek (no Simple Icons logo yet → fallback text) -->
-  <img src="https://img.shields.io/badge/DeepSeek-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="DeepSeek" />
-
   <!-- n8n -->
   <img src="https://img.shields.io/badge/n8n-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=n8n&logoColor=white" alt="n8n" />
 
