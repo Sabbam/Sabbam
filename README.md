@@ -33,17 +33,37 @@ Pushing this README to that repo will render on your GitHub profile.
 </p>
 
 <p align="center">
-  <!-- Text-based “boxes” without CSS: shields (compact flat-square) -->
-  <img src="https://img.shields.io/badge/REST%20API-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="REST API" />
-  <img src="https://img.shields.io/badge/WordPress-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=wordpress" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Odoo-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="Odoo" />
-  <img src="https://img.shields.io/badge/React%20Native-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=react" alt="React Native" />
-  <img src="https://img.shields.io/badge/ChatGPT-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="ChatGPT" />
+
+  <!-- REST API (OpenAPI/Swagger) -->
+  <img src="https://img.shields.io/badge/REST%20API-OpenAPI-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=swagger&logoColor=white" alt="REST API (OpenAPI)" />
+
+  <!-- WordPress -->
+  <img src="https://img.shields.io/badge/WordPress-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=wordpress&logoColor=white" alt="WordPress" />
+
+  <!-- Odoo -->
+  <img src="https://img.shields.io/badge/Odoo-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=odoo&logoColor=white" alt="Odoo" />
+
+  <!-- React Native -->
+  <img src="https://img.shields.io/badge/React%20Native-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=react&logoColor=white" alt="React Native" />
+
+  <!-- ChatGPT (OpenAI) -->
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=openai&logoColor=white" alt="ChatGPT / OpenAI" />
+
+  <!-- DeepSeek (no Simple Icons logo yet → fallback text) -->
   <img src="https://img.shields.io/badge/DeepSeek-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/n8n-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="n8n" />
-  <img src="https://img.shields.io/badge/SQL-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="Power BI" />
+
+  <!-- n8n -->
+  <img src="https://img.shields.io/badge/n8n-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=n8n&logoColor=white" alt="n8n" />
+
+  <!-- SQL (choose one) -->
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=postgresql&logoColor=white" alt="SQL (PostgreSQL)" />
+  <!-- or: <img src="https://img.shields.io/badge/SQL-MSSQL-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=microsoftsqlserver&logoColor=white" alt="SQL (MS SQL Server)" /> -->
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=powerbi&logoColor=white" alt="Power BI" />
+
 </p>
+
 
 ---
 
