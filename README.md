@@ -25,11 +25,11 @@ Pushing this README to that repo will render on your GitHub profile.
 ## 🧰 Tech Stack (curated)
 
 <div align="center" style="margin: 20px 0;">
-  <!-- Main icons row -->
+  <!-- Main icons row (scaled smaller) -->
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,flutter,mongodb,nodejs,php,python,git,github,aws,vercel,netlify,linux,postgres,mysql,docker,postman&perline=12&theme=dark" 
     alt="Tech icons" 
-    style="max-width: 720px; height: auto;" 
+    style="max-width: 600px; height: auto;" 
   />
 </div>
 
@@ -38,9 +38,11 @@ Pushing this README to that repo will render on your GitHub profile.
   <img 
     src="./assets/stack-extras.svg" 
     alt="Extra tech badges (REST API, Odoo, React Native, ChatGPT, DeepSeek, n8n, Power BI, SQL)" 
-    style="max-width: 680px; height: auto;" 
+    style="max-width: 620px; height: auto;" 
   />
 </div>
+
+---
 
 ---
 
