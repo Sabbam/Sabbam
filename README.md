@@ -20,51 +20,32 @@ Pushing this README to that repo will render on your GitHub profile.
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Full+Stack+Developer;Senior+WordPress+Engineer;Odoo+ERP+Customizations;Flutter+%2B+Firebase+Apps" alt="typing animation" />
 </p>
 
+---
+
 ## 🧰 Tech Stack (curated)
 
-<div align="center" style="margin:20px 0;">
-  <!-- Main icons row (medium size) -->
+<p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,flutter,mongodb,nodejs,php,python,git,github,aws,vercel,netlify,linux,postgres,mysql,docker,postman&perline=12&theme=dark"
     alt="Tech icons"
-    style="max-width:600px;height:auto;"
+    width="600"
   />
-</div>
+</p>
 
-<!-- Text-based badges (no images), inline CSS, dark-theme friendly -->
-<div align="center" style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:14px auto 0;max-width:820px;">
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>REST API
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>WordPress
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>Odoo
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>React Native
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>ChatGPT
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>DeepSeek
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>n8n
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>SQL
-  </span>
-  <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid #1f2937;border-radius:9999px;background:#0b1220;color:#e5e7eb;font:500 13px/1 Inter,Segoe UI,Roboto,Arial,sans-serif;">
-    <span style="width:6px;height:6px;border-radius:50%;background:#22d3ee;display:inline-block;"></span>Power BI
-  </span>
-</div>
+<p align="center">
+  <!-- Text-based “boxes” without CSS: shields (compact flat-square) -->
+  <img src="https://img.shields.io/badge/REST%20API-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="REST API" />
+  <img src="https://img.shields.io/badge/WordPress-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=wordpress" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Odoo-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="Odoo" />
+  <img src="https://img.shields.io/badge/React%20Native-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937&logo=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/ChatGPT-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/DeepSeek-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/n8n-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="n8n" />
+  <img src="https://img.shields.io/badge/SQL-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-–-0b1220?style=flat-square&labelColor=0b1220&color=1f2937" alt="Power BI" />
+</p>
 
 ---
-
-
 
 ## 🚀 Snapshot
 
@@ -108,7 +89,6 @@ Pushing this README to that repo will render on your GitHub profile.
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbam&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ## 🧭 Quick Links
 
