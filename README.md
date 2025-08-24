@@ -23,14 +23,27 @@ Pushing this README to that repo will render on your GitHub profile.
 ---
 
 ## 🧰 Tech Stack (curated)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,flutter,mongodb,nodejs,php,python,git,github,aws,vercel,netlify,linux,postgres,mysql,docker,postman&perline=14&theme=dark" alt="Tech icons" width="780" />
-</p>
-<p align="center">
-  <img src="./assets/stack-extras.svg" alt="Extra tech badges (REST API, Odoo, RN, ChatGPT, DeepSeek, n8n, Power BI, SQL)" />
-</p>
+
+<div align="center" style="margin: 20px 0;">
+  <!-- Main icons row -->
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,flutter,mongodb,nodejs,php,python,git,github,aws,vercel,netlify,linux,postgres,mysql,docker,postman&perline=12&theme=dark" 
+    alt="Tech icons" 
+    style="max-width: 720px; height: auto;" 
+  />
+</div>
+
+<div align="center" style="margin: 16px 0;">
+  <!-- Extras row -->
+  <img 
+    src="./assets/stack-extras.svg" 
+    alt="Extra tech badges (REST API, Odoo, React Native, ChatGPT, DeepSeek, n8n, Power BI, SQL)" 
+    style="max-width: 680px; height: auto;" 
+  />
+</div>
 
 ---
+
 
 ## 🚀 Snapshot
 
@@ -74,13 +87,7 @@ Pushing this README to that repo will render on your GitHub profile.
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbam&hide_border=true" alt="GitHub Streak" />
 </p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sabbam&theme=flat&column=6" alt="Trophies" />
-</p>
 
-<p>
-  <img src="./metrics.svg" alt="Comprehensive metrics (generated daily)" />
-</p>
 
 ## 🧭 Quick Links
 
