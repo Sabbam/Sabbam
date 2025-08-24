@@ -1,0 +1,12 @@
+<svg width="980" height="84" viewBox="0 0 980 84" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Extra tech badges">
+  <defs>
+    <style>
+      .pill { font-family: Inter,Segoe UI,Roboto,Arial,sans-serif; font-size: 14px; fill: #e5e7eb; }
+      .cap { fill: #0b1220; stroke:#1f2937; stroke-width:1; }
+      .dot { fill: #22d3ee; }
+    </style>
+  </defs>
+  <g transform="translate(10,18)"><rect width="110" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">REST API</text></g><g transform="translate(130,18)"><rect width="120" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">WordPress</text></g><g transform="translate(260,18)"><rect width="100" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">Odoo</text></g><g transform="translate(370,18)"><rect width="140" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">React Native</text></g><g transform="translate(520,18)"><rect width="110" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">ChatGPT</text></g><g transform="translate(640,18)"><rect width="120" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">DeepSeek</text></g><g transform="translate(770,18)"><rect width="90" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">n8n</text></g><g transform="translate(870,18)"><rect width="90" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">SQL</text></g>
+  <!-- Row 2 -->
+  <g transform="translate(10,48)"><rect width="110" height="36" rx="18" class="cap"/><circle cx="18" cy="18" r="4" class="dot"/><text x="32" y="24" class="pill">Power BI</text></g>
+</svg>
