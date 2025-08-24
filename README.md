@@ -72,8 +72,6 @@ Pushing this README to that repo will render on your GitHub profile.
 
 ## 📌 Featured Projects (updated)
 
-> Pin these repositories on your profile for maximum visibility. Replace repo links as needed.
-
 | Project | What it is | Stack |
 |---|---|---|
 | **Digisoft AI (WordPress)** | Corporate SEO site, CWV, caching/CDN | WordPress, custom plugins/themes, WP-CLI, CI/CD |
