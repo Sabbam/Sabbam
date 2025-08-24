@@ -106,8 +106,6 @@ Pushing this README to that repo will render on your GitHub profile.
 
 - 📄 **Resume:** [Sabbam Chandraneel.pdf](https://github.com/sabbam/sabbam/releases/latest) _(attach in a GitHub Release)_
 - 🌐 **Portfolio:** [https://neelportfolio.in](https://neelportfolio.in)
-- 🧠 **Notes:** Notion (optional)
-- 📝 **Blog:** DEV.to / Hashnode (optional)
 
 ## 🤝 Open For
 
