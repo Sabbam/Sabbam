@@ -1,7 +1,6 @@
 <!--
   Sabbam Chandraneel — GitHub Profile README
-  Repository: sabbam/sabbam
-  Use this file as your profile README. Icons are inline SVG tokens in sky-blue (#0ea5e9)
+  Repo: sabbam/sabbam
 -->
 
 <p align="center">
@@ -9,247 +8,109 @@
 </p>
 
 <h1 align="center" style="color:#0ea5e9;">Sabbam Chandraneel</h1>
-<p align="center" style="margin-top:4px">
-  <strong>Full Stack Developer • Cloud Engineer • WordPress Specialist • SaaS Architect</strong>
-</p>
+<h3 align="center">Full Stack Developer • Cloud Engineer • WordPress Specialist • SaaS Innovator</h3>
 
-<p align="center" style="margin-top:12px">
+<p align="center">
   <a href="mailto:sabbam2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sabbam2004%40gmail.com-0284c7?style=for-the-badge&logo=gmail" alt="Email" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-sabbam2004%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/sabbam-chandraneel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://neelportfolio.in">
-    <img src="https://img.shields.io/badge/Portfolio-neelportfolio.in-0f172a?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-neelportfolio.in-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://github.com/sabbam">
-    <img src="https://img.shields.io/github/followers/sabbam?style=for-the-badge&logo=github&color=0ea5e9" alt="GitHub Followers" />
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/sabbam?style=for-the-badge&logo=github&color=0ea5e9">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&center=true&vCenter=true&width=900&color=0ea5e9&lines=Cloud+Engineer;Full+Stack+Developer;AI+%2F+SaaS+Innovator;Senior+WordPress+Engineer;Odoo+ERP+Developer;Flutter+%2B+Firebase+Specialist" alt="typing animation" />
 </p>
 
 ---
 
-## About — Professional Summary
+## About Me
 
-I design and deliver production-grade web and cloud platforms: WordPress enterprise systems, Odoo ERP modules, AI-enabled SaaS, and cross-platform apps. I emphasize **scalability, observability, and maintainability** — code that supports product outcomes and business KPIs.
+I design and deliver **production-grade web and cloud platforms**:  
+- WordPress enterprise systems  
+- Odoo ERP modules  
+- AI-enabled SaaS products  
+- Cross-platform mobile apps  
+
+Focus: **Scalability • Observability • Maintainability**
 
 ---
 
 ## Core Expertise
 
-- Frontend: React, Next.js, Tailwind, Flutter  
-- Backend: Node.js, Express, Firebase Functions, Python (Odoo)  
-- Cloud & Infra: AWS, Firebase, Vercel, Docker, CI/CD (GitHub Actions)  
-- Data & Automation: PostgreSQL, MongoDB, Power BI, n8n workflows  
-- CMS & Platforms: WordPress (plugins, performance, security)
+- **Frontend:** React, Next.js, Tailwind, Flutter  
+- **Backend:** Node.js, Express, Firebase Functions, Python (Odoo)  
+- **Cloud & Infra:** AWS, Firebase, Vercel, Docker, CI/CD (GitHub Actions)  
+- **Data & Automation:** PostgreSQL, MongoDB, MySQL, Power BI, n8n  
+- **CMS:** WordPress (Custom Plugins, SEO, Security, CI/CD)  
 
 ---
 
-## Tech Stack — Visible, Corporate Icons (Sky-Blue)
-
-Below is a compact icon grid. Each icon is an inline SVG token using a sky-blue fill (`#0ea5e9`) for maximum visibility across GitHub themes. Click any icon to go to official docs.
+## Tech Stack
 
 <p align="center">
-  <!-- Row 1 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="false">
-      <title>HTML5</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="60" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">HTML</text>
-    </svg>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>CSS3</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="60" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">CSS</text>
-    </svg>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>JavaScript</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="60" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">JS</text>
-    </svg>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" title="TypeScript" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>TypeScript</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="60" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">TS</text>
-    </svg>
-  </a>
-
-  <a href="https://reactjs.org/" title="React" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>React</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="57" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">REACT</text>
-    </svg>
-  </a>
-
-  <a href="https://nextjs.org/" title="Next.js" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Next.js</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="57" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">NEXT</text>
-    </svg>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  <a href="https://tailwindcss.com/" title="Tailwind CSS" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Tailwind CSS</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">TW</text>
-    </svg>
-  </a>
-
-  <a href="https://flutter.dev/" title="Flutter" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Flutter</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="57" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">FLUT</text>
-    </svg>
-  </a>
-
-  <a href="https://nodejs.org/" title="Node.js" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Node.js</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="57" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">NODE</text>
-    </svg>
-  </a>
-
-  <a href="https://expressjs.com/" title="Express" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Express</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">EXP</text>
-    </svg>
-  </a>
-
-  <a href="https://firebase.google.com/" title="Firebase" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Firebase</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">FIRE</text>
-    </svg>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-  <a href="https://www.python.org/" title="Python" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Python</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">PY</text>
-    </svg>
-  </a>
-
-  <a href="https://www.php.net/" title="PHP" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>PHP</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">PHP</text>
-    </svg>
-  </a>
-
-  <a href="https://www.odoo.com/" title="Odoo" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Odoo</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">ODOO</text>
-    </svg>
-  </a>
-
-  <a href="https://wordpress.org/" title="WordPress" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>WordPress</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="57" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">WP</text>
-    </svg>
-  </a>
-
-  <a href="https://www.postgresql.org/" title="PostgreSQL" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>PostgreSQL</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">PG</text>
-    </svg>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 4 -->
-  <a href="https://www.mongodb.com/" title="MongoDB" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>MongoDB</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">MDB</text>
-    </svg>
-  </a>
-
-  <a href="https://www.mysql.com/" title="MySQL" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>MySQL</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="58" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">MY</text>
-    </svg>
-  </a>
-
-  <a href="https://aws.amazon.com/" title="AWS" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>AWS</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="57" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">AWS</text>
-    </svg>
-  </a>
-
-  <a href="https://www.docker.com/" title="Docker" style="margin:6px">
-    <svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img">
-      <title>Docker</title>
-      <circle cx="50" cy="50" r="48" fill="#0ea5e9"/>
-      <text x="50" y="57" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">DOCK</text>
-    </svg>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,nodejs,express,firebase,python,php,wordpress,postgres,mongodb,mysql,aws,docker,git,github,linux,postman&perline=8&theme=light" />
 </p>
 
 ---
 
-## Featured Projects (short list)
+## Featured Projects
 
-- **Digisoft AI** — Enterprise WordPress, performance & CDN optimizations.  
-- **IntellifluxAI** — AI product portal with Gutenberg customizations.  
-- **Odoo ERP Suite** — 8+ Odoo modules: commission, vendor onboarding, multi-company rules.  
-- **AI EdTech Platform** — Adaptive learning with GenAI insights.
-
----
-
-## Live Sites
-
-- https://digisoftai.com  
-- https://intellifluxai.com  
-- https://vizagiasacademy.com
+| Project | Description | Stack |
+|----------|--------------|-------|
+| **Digisoft AI** | Corporate SEO-optimized WordPress platform | WordPress, Plugins, CI/CD |
+| **IntellifluxAI** | AI product website with Gutenberg customizations | WordPress, Cloudflare |
+| **Vizag IAS Academy** | Education portal with scalable CMS | WordPress, WooCommerce |
+| **AI EdTech Platform** | Adaptive learning with GenAI insights | Next.js, Firebase, Tailwind |
+| **AI Travel Planner** | Smart itinerary builder with OpenAI | React.js, Firebase |
+| **Odoo ERP Suite** | 8+ custom modules (Vendor, Commission, PWA) | Odoo, Python, PostgreSQL |
+| **AI Finance Manager** | Predictive analytics via ML | React Native, Firebase, Python |
+| **WCM Ministry App** | Events + notifications system | Flutter, Firebase |
 
 ---
 
-## Recommended: Local SVG assets (official logos) — if you want brand-perfect icons
+## Live Projects
 
-**Why local assets?** GitHub renders local SVGs reliably and you control color/styling. Steps:
+- [digisoftai.com](https://digisoftai.com)  
+- [intellifluxai.com](https://intellifluxai.com)  
+- [vizagiasacademy.com](https://vizagiasacademy.com)  
+- [kaalishakthipeetham.com](https://kaalishakthipeetham.com)  
+- [perhitsiksha.org](https://perhitsiksha.org)
 
-1. Create `assets/icons/` in the repo.
-2. Download or prepare official SVG logos and standardize them to use `fill="#0ea5e9"` (or `stroke`), remove external CSS and scripts.
-3. Reference them in README:
+---
 
-```html
-<a href="https://reactjs.org" title="React">
-  <img src="./assets/icons/react.svg" alt="React" width="48" height="48" />
-</a>
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbam&show_icons=true&hide_border=true&theme=transparent&icon_color=0ea5e9&title_color=0ea5e9" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbam&hide_border=true&theme=transparent&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" height="165" />
+</p>
+
+---
+
+## Quick Access
+
+- **Resume:** [Sabbam Chandraneel.pdf](https://github.com/sabbam/sabbam/releases/latest)  
+- **Portfolio:** [https://neelportfolio.in](https://neelportfolio.in)  
+- **LinkedIn:** [linkedin.com/in/sabbam-chandraneel](https://www.linkedin.com/in/sabbam-chandraneel/)  
+
+---
+
+## Collaboration & Engagement
+
+- Freelance / Contract Roles — Cloud • Full Stack • WordPress • SaaS  
+- Collaborations — AI & Automation Systems  
+- Mentorship — Full Stack, Cloud, and Project Architecture  
+
+---
+
+<p align="center">
+  <sub style="color:#0ea5e9;">Timezone: Asia/Kolkata | Maintained via GitHub Actions | Updated: 2025-10-04</sub>
+</p>
