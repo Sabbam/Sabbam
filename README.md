@@ -72,7 +72,6 @@ Focus: **Scalability • Observability • Maintainability**
 | **AI Travel Planner** | Smart itinerary builder with OpenAI | React.js, Firebase |
 | **Odoo ERP Suite** | 8+ custom modules (Vendor, Commission, PWA) | Odoo, Python, PostgreSQL |
 | **AI Finance Manager** | Predictive analytics via ML | React Native, Firebase, Python |
-| **WCM Ministry App** | Events + notifications system | Flutter, Firebase |
 
 ---
 
