@@ -18,7 +18,11 @@
         <b>Location:</b> Visakhapatnam, IN<br/>
       </p>
       <hr style="border: 0.5px solid #232946;"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=sabbam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111700&title_color=6366F1&text_color=8B949E&icon_color=4F46E5" width="100%"/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/COMMITS-Indigo?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/STARS-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/REPOS-312E81?style=for-the-badge&logo=gitbook&logoColor=white" />
+      </div>
     </td>
     <td width="5%"></td>
     <td width="65%" style="vertical-align: top;">
