@@ -1,3 +1,5 @@
+<div align="center">
+  
 <img src="./architect_banner_perfect.png" width="100%" />
 
 
@@ -19,9 +21,9 @@
       </p>
       <hr style="border: 0.5px solid #232946;"/>
       <div align="center">
-        <a href="https://github.com/sabbam?tab=overview&from=2024-12-01&to=2024-12-31"><img src="https://img.shields.io/badge/COMMITS-Indigo?style=for-the-badge&logo=git&logoColor=white" /></a>
-        <a href="https://github.com/sabbam?tab=stars"><img src="https://img.shields.io/badge/STARS-4F46E5?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/sabbam?tab=repositories"><img src="https://img.shields.io/badge/REPOS-312E81?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/COMMITS-Indigo?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/STARS-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/REPOS-312E81?style=for-the-badge&logo=gitbook&logoColor=white" />
       </div>
     </td>
     <td width="5%"></td>
@@ -58,9 +60,9 @@
     </tr>
     <tr>
       <td align="center"><b>CMS & ERP</b><br/>
-      <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
       </td>
       <td width="20"></td>
       <td align="center"><b>ENGINEERING TOOLS</b><br/><img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel&theme=dark" /></td>
