@@ -19,9 +19,9 @@
       </p>
       <hr style="border: 0.5px solid #232946;"/>
       <div align="center">
-        <img src="https://img.shields.io/badge/COMMITS-Indigo?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/STARS-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/REPOS-312E81?style=for-the-badge&logo=gitbook&logoColor=white" />
+        <a href="https://github.com/sabbam?tab=overview&from=2024-12-01&to=2024-12-31"><img src="https://img.shields.io/badge/COMMITS-Indigo?style=for-the-badge&logo=git&logoColor=white" /></a>
+        <a href="https://github.com/sabbam?tab=stars"><img src="https://img.shields.io/badge/STARS-4F46E5?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/sabbam?tab=repositories"><img src="https://img.shields.io/badge/REPOS-312E81?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
       </div>
     </td>
     <td width="5%"></td>
