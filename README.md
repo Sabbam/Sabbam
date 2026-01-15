@@ -1,9 +1,7 @@
 <div align="center">
   
-![Architect Dossier](https://raw.githubusercontent.com/sabbam/sabbam/main/architect_dossier_banner.png)
+<img src="./architect_premium_banner_final.png" width="100%" />
 
-# Sabbam Chandraneel
-### Software Engineer | Web Developer | Full-Stack Architect
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Software+Engineer+%26+Web+Developer;Web+%26+Mobile+Architect;Expert+AI+Integrations" alt="Identity" />
