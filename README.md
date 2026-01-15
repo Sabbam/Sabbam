@@ -1,114 +1,96 @@
-<div style="background:#0b0f1a;color:#e6e8ef;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;padding:48px;border-radius:18px;line-height:1.7;max-width:980px;margin:auto;box-shadow:0 0 0 1px rgba(255,255,255,0.06),0 40px 120px rgba(0,0,0,0.8);">
+<!-- ================= PROFILE BANNER ================= -->
+<div style="background:linear-gradient(135deg,#0b0f1a,#12172a,#1a1f36);padding:60px 40px;border-radius:20px;max-width:1000px;margin:auto;color:#e6e8ef;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;box-shadow:0 0 0 1px rgba(255,255,255,0.06),0 50px 140px rgba(0,0,0,0.9);">
 
-
-  <!-- Header -->
-  <div style="text-align:center; margin-bottom:48px;">
-    <h1 style="
-      font-size:42px;
-      letter-spacing:-1px;
-      margin-bottom:12px;
-      background:linear-gradient(90deg,#7aa2ff,#9d7cff,#ff8bdc);
-      -webkit-background-clip:text;
-      color:transparent;
-    ">
+  <!-- HEADER -->
+  <div style="text-align:center;margin-bottom:60px;">
+    <h1 style="font-size:44px;letter-spacing:-1px;margin-bottom:12px;background:linear-gradient(90deg,#7aa2ff,#9d7cff,#ff8bdc);-webkit-background-clip:text;color:transparent;">
       Sabbam Chandraneel
     </h1>
-
-    <p style="font-size:16px; opacity:0.85;">
+    <p style="font-size:16px;opacity:0.85;">
       Software Engineer • Web & Mobile Architect • AI-Integrated Systems
     </p>
-
     <p style="margin-top:18px;">
-      <a href="https://linkedin.com/in/sabbam-chandraneel" style="color:#7aa2ff; text-decoration:none;">LinkedIn</a>
+      <a href="https://linkedin.com/in/sabbam-chandraneel" style="color:#7aa2ff;text-decoration:none;">LinkedIn</a>
       <span style="opacity:0.4;"> • </span>
-      <a href="mailto:sabbam2004@gmail.com" style="color:#9d7cff; text-decoration:none;">Email</a>
+      <a href="mailto:sabbam2004@gmail.com" style="color:#9d7cff;text-decoration:none;">Email</a>
       <span style="opacity:0.4;"> • </span>
-      <a href="https://github.com/sabbam" style="color:#ff8bdc; text-decoration:none;">GitHub</a>
+      <a href="https://github.com/sabbam" style="color:#ff8bdc;text-decoration:none;">GitHub</a>
     </p>
   </div>
 
-  <!-- About -->
-  <section style="margin-bottom:44px;">
-    <h2 style="font-size:22px; margin-bottom:14px;">🧠 About Me</h2>
-    <p style="opacity:0.9;">
+  <!-- ABOUT -->
+  <section style="margin-bottom:56px;">
+    <h2 style="font-size:22px;margin-bottom:14px;">🧠 About Me</h2>
+    <p style="opacity:0.9;line-height:1.75;">
       I design and build <b>production-grade software systems</b> — scalable web platforms,
-      mobile applications, and AI-powered tools.  
-      My work focuses on clean architecture, backend reliability, security-first design,
-      and shipping real products that scale beyond MVPs.
+      mobile applications, and AI-powered tools. My work focuses on clean architecture,
+      backend reliability, security-first design, and shipping real products that scale
+      beyond MVPs.
     </p>
   </section>
 
-  <!-- Tech Stack -->
-  <section style="margin-bottom:44px;">
-    <h2 style="font-size:22px; margin-bottom:14px;">🛠 Technical Arsenal</h2>
-
-    <pre style="
-      background:#12172a;
-      padding:20px;
-      border-radius:12px;
-      overflow:auto;
-      font-size:14px;
-      color:#cfd6ff;
-    ">
-Languages        : Java, Python, JavaScript
-Frontend         : React, Next.js, HTML5, CSS3, Tailwind, Bootstrap
-Mobile           : Flutter, React Native (Expo)
-Backend & Cloud  : Firebase (Auth, Firestore, Functions), REST APIs, MongoDB
-AI & Data        : Google Gemini, AI-assisted workflows, Streamlit
-Platforms        : WordPress, Shopify, Odoo ERP
-Tools            : Git, GitHub
-    </pre>
+  <!-- TECH STACK -->
+  <section style="margin-bottom:56px;">
+    <h2 style="font-size:22px;margin-bottom:16px;">🛠 Technical Arsenal</h2>
+    <div style="background:#0f1424;padding:22px;border-radius:14px;font-size:14px;color:#cfd6ff;box-shadow:inset 0 0 0 1px rgba(255,255,255,0.05);">
+      <div>Languages : Java, Python, JavaScript</div>
+      <div>Frontend : React, Next.js, HTML5, CSS3, Tailwind, Bootstrap</div>
+      <div>Mobile : Flutter, React Native (Expo)</div>
+      <div>Backend & Cloud : Firebase (Auth, Firestore, Functions), REST APIs, MongoDB</div>
+      <div>AI & Data : Google Gemini, AI-assisted workflows, Streamlit</div>
+      <div>Platforms : WordPress, Shopify, Odoo ERP</div>
+      <div>Tools : Git, GitHub</div>
+    </div>
   </section>
 
-  <!-- Projects -->
-  <section style="margin-bottom:44px;">
-    <h2 style="font-size:22px; margin-bottom:18px;">🚀 Signature Projects</h2>
+  <!-- PROJECTS -->
+  <section style="margin-bottom:56px;">
+    <h2 style="font-size:22px;margin-bottom:20px;">🚀 Signature Projects</h2>
 
-    <div style="margin-bottom:22px;">
+    <div style="margin-bottom:26px;">
       <h3 style="margin-bottom:6px;">📱 WCM Church Ministry App</h3>
       <p style="opacity:0.85;">
-        Flutter + Firebase production application with role-based access,
-        admin panel, events, announcements, registrations, payments,
+        Flutter + Firebase production application featuring role-based access,
+        admin dashboard, events, announcements, registrations, payments,
         and real-time notifications.
       </p>
     </div>
 
-    <div style="margin-bottom:22px;">
+    <div style="margin-bottom:26px;">
       <h3 style="margin-bottom:6px;">💰 AI Finance Manager</h3>
       <p style="opacity:0.85;">
-        Cross-platform finance assistant built using React Native (Expo),
-        Firebase, and Google Gemini for intelligent insights, analytics,
-        and Streamlit dashboards.
+        Cross-platform finance assistant built with React Native (Expo),
+        Firebase, and Google Gemini for intelligent insights and analytics
+        dashboards using Streamlit.
       </p>
     </div>
 
-    <div style="margin-bottom:22px;">
+    <div style="margin-bottom:26px;">
       <h3 style="margin-bottom:6px;">✈️ AI Travel Planner</h3>
       <p style="opacity:0.85;">
         AI-powered itinerary generation system with user profiles,
-        trip persistence, and PDF export functionality.
+        persistent trips, and PDF export functionality.
       </p>
     </div>
 
     <div>
       <h3 style="margin-bottom:6px;">🔐 MY Secure</h3>
       <p style="opacity:0.85;">
-        Security-focused web utility for generating strong credentials
-        with entropy-based analysis, password history, and
-        100% client-side execution.
+        Security-focused credential generator with entropy-based strength
+        analysis, password history, favourites, and 100% client-side execution.
       </p>
     </div>
   </section>
 
-  <!-- Experience -->
-  <section style="margin-bottom:44px;">
-    <h2 style="font-size:22px; margin-bottom:18px;">🏢 Professional Experience</h2>
+  <!-- EXPERIENCE -->
+  <section style="margin-bottom:56px;">
+    <h2 style="font-size:22px;margin-bottom:18px;">🏢 Professional Experience</h2>
 
     <p><b>Aixor Digital</b> — Web Developer (Sep 2025 – Present)</p>
     <p style="opacity:0.85;">
-      Delivered 10+ production WordPress & Shopify platforms,
-      built custom themes, plugins, WooCommerce workflows,
-      and owned deployments, security, and maintenance.
+      Delivered 10+ production WordPress & Shopify platforms, built custom
+      themes, plugins, WooCommerce workflows, and owned deployments,
+      security, and maintenance.
     </p>
 
     <p style="margin-top:14px;"><b>Scepter Enterprises Pvt. Ltd.</b> — IT Developer (Jan 2025 – Jul 2025)</p>
@@ -124,9 +106,9 @@ Tools            : Git, GitHub
     </p>
   </section>
 
-  <!-- Education -->
-  <section style="margin-bottom:44px;">
-    <h2 style="font-size:22px; margin-bottom:14px;">🎓 Education & Credentials</h2>
+  <!-- EDUCATION -->
+  <section style="margin-bottom:48px;">
+    <h2 style="font-size:22px;margin-bottom:14px;">🎓 Education</h2>
     <p>
       <b>B.Tech — Computer Science & Engineering</b><br/>
       Dr. Lankapalli Bullayya College of Engineering<br/>
@@ -134,19 +116,14 @@ Tools            : Git, GitHub
     </p>
   </section>
 
-  <!-- Awards -->
-  <section style="margin-bottom:36px;">
-    <h2 style="font-size:22px; margin-bottom:14px;">🏆 Recognition</h2>
+  <!-- AWARD -->
+  <section style="margin-bottom:40px;">
+    <h2 style="font-size:22px;margin-bottom:14px;">🏆 Recognition</h2>
     <p>Best Website Developer Award — Digisoft AI</p>
   </section>
 
-  <!-- Footer -->
-  <div style="
-    text-align:center;
-    padding-top:28px;
-    border-top:1px solid rgba(255,255,255,0.08);
-    opacity:0.7;
-  ">
+  <!-- FOOTER -->
+  <div style="text-align:center;padding-top:30px;border-top:1px solid rgba(255,255,255,0.08);opacity:0.7;">
     <i>I don’t just write code — I engineer systems.</i>
   </div>
 
