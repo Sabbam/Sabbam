@@ -1,8 +1,4 @@
-<div align="center">
-  <div style="max-height: 250px; overflow: hidden; border-radius: 10px;">
-    <img src="./architect_banner.png" width="100%" style="margin-top: -150px; margin-bottom: -150px;" />
-  </div>
-</div>
+<img src="./architect_banner_perfect.png" width="100%" />
 
 
 <p align="center">
