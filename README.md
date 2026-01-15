@@ -1,15 +1,5 @@
-<div style="
-  background:#0b0f1a;
-  color:#e6e8ef;
-  font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;
-  padding:48px;
-  border-radius:18px;
-  line-height:1.7;
-  max-width:980px;
-  margin:auto;
-  box-shadow:0 0 0 1px rgba(255,255,255,0.06),
-             0 40px 120px rgba(0,0,0,0.8);
-">
+<div style="background:#0b0f1a;color:#e6e8ef;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;padding:48px;border-radius:18px;line-height:1.7;max-width:980px;margin:auto;box-shadow:0 0 0 1px rgba(255,255,255,0.06),0 40px 120px rgba(0,0,0,0.8);">
+
 
   <!-- Header -->
   <div style="text-align:center; margin-bottom:48px;">
