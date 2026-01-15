@@ -1,115 +1,163 @@
-<!--
-  Sabbam Chandraneel — GitHub Profile README
-  Repo: sabbam/sabbam
--->
+<div style="
+  background:#0b0f1a;
+  color:#e6e8ef;
+  font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;
+  padding:48px;
+  border-radius:18px;
+  line-height:1.7;
+  max-width:980px;
+  margin:auto;
+  box-shadow:0 0 0 1px rgba(255,255,255,0.06),
+             0 40px 120px rgba(0,0,0,0.8);
+">
 
-<p align="center">
-  <img src="./assets/banner.svg" alt="Banner — Sabbam Chandraneel" width="100%" />
-</p>
+  <!-- Header -->
+  <div style="text-align:center; margin-bottom:48px;">
+    <h1 style="
+      font-size:42px;
+      letter-spacing:-1px;
+      margin-bottom:12px;
+      background:linear-gradient(90deg,#7aa2ff,#9d7cff,#ff8bdc);
+      -webkit-background-clip:text;
+      color:transparent;
+    ">
+      Sabbam Chandraneel
+    </h1>
 
-<h1 align="center" style="color:#0ea5e9;">Sabbam Chandraneel</h1>
-<h3 align="center">Full Stack Developer • Cloud Engineer • WordPress Specialist • SaaS Innovator</h3>
+    <p style="font-size:16px; opacity:0.85;">
+      Software Engineer • Web & Mobile Architect • AI-Integrated Systems
+    </p>
 
-<p align="center">
-  <a href="mailto:sabbam2004@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-sabbam2004%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/sabbam-chandraneel/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://neelportfolio.in">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-neelportfolio.in-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://github.com/sabbam">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/sabbam?style=for-the-badge&logo=github&color=0ea5e9">
-  </a>
-</p>
+    <p style="margin-top:18px;">
+      <a href="https://linkedin.com/in/sabbam-chandraneel" style="color:#7aa2ff; text-decoration:none;">LinkedIn</a>
+      <span style="opacity:0.4;"> • </span>
+      <a href="mailto:sabbam2004@gmail.com" style="color:#9d7cff; text-decoration:none;">Email</a>
+      <span style="opacity:0.4;"> • </span>
+      <a href="https://github.com/sabbam" style="color:#ff8bdc; text-decoration:none;">GitHub</a>
+    </p>
+  </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&center=true&vCenter=true&width=900&color=0ea5e9&lines=Cloud+Engineer;Full+Stack+Developer;AI+%2F+SaaS+Innovator;Senior+WordPress+Engineer;Odoo+ERP+Developer;Flutter+%2B+Firebase+Specialist" alt="typing animation" />
-</p>
+  <!-- About -->
+  <section style="margin-bottom:44px;">
+    <h2 style="font-size:22px; margin-bottom:14px;">🧠 About Me</h2>
+    <p style="opacity:0.9;">
+      I design and build <b>production-grade software systems</b> — scalable web platforms,
+      mobile applications, and AI-powered tools.  
+      My work focuses on clean architecture, backend reliability, security-first design,
+      and shipping real products that scale beyond MVPs.
+    </p>
+  </section>
 
----
+  <!-- Tech Stack -->
+  <section style="margin-bottom:44px;">
+    <h2 style="font-size:22px; margin-bottom:14px;">🛠 Technical Arsenal</h2>
 
-## About Me
+    <pre style="
+      background:#12172a;
+      padding:20px;
+      border-radius:12px;
+      overflow:auto;
+      font-size:14px;
+      color:#cfd6ff;
+    ">
+Languages        : Java, Python, JavaScript
+Frontend         : React, Next.js, HTML5, CSS3, Tailwind, Bootstrap
+Mobile           : Flutter, React Native (Expo)
+Backend & Cloud  : Firebase (Auth, Firestore, Functions), REST APIs, MongoDB
+AI & Data        : Google Gemini, AI-assisted workflows, Streamlit
+Platforms        : WordPress, Shopify, Odoo ERP
+Tools            : Git, GitHub
+    </pre>
+  </section>
 
-I design and deliver **production-grade web and cloud platforms**:  
-- WordPress enterprise systems  
-- Odoo ERP modules  
-- AI-enabled SaaS products  
-- Cross-platform mobile apps  
+  <!-- Projects -->
+  <section style="margin-bottom:44px;">
+    <h2 style="font-size:22px; margin-bottom:18px;">🚀 Signature Projects</h2>
 
-Focus: **Scalability • Observability • Maintainability**
+    <div style="margin-bottom:22px;">
+      <h3 style="margin-bottom:6px;">📱 WCM Church Ministry App</h3>
+      <p style="opacity:0.85;">
+        Flutter + Firebase production application with role-based access,
+        admin panel, events, announcements, registrations, payments,
+        and real-time notifications.
+      </p>
+    </div>
 
----
+    <div style="margin-bottom:22px;">
+      <h3 style="margin-bottom:6px;">💰 AI Finance Manager</h3>
+      <p style="opacity:0.85;">
+        Cross-platform finance assistant built using React Native (Expo),
+        Firebase, and Google Gemini for intelligent insights, analytics,
+        and Streamlit dashboards.
+      </p>
+    </div>
 
-## Core Expertise
+    <div style="margin-bottom:22px;">
+      <h3 style="margin-bottom:6px;">✈️ AI Travel Planner</h3>
+      <p style="opacity:0.85;">
+        AI-powered itinerary generation system with user profiles,
+        trip persistence, and PDF export functionality.
+      </p>
+    </div>
 
-- **Frontend:** React, Next.js, Tailwind, Flutter  
-- **Backend:** Node.js, Express, Firebase Functions, Python (Odoo)  
-- **Cloud & Infra:** AWS, Firebase, Vercel, Docker, CI/CD (GitHub Actions)  
-- **Data & Automation:** PostgreSQL, MongoDB, MySQL, Power BI, n8n  
-- **CMS:** WordPress (Custom Plugins, SEO, Security, CI/CD)  
+    <div>
+      <h3 style="margin-bottom:6px;">🔐 MY Secure</h3>
+      <p style="opacity:0.85;">
+        Security-focused web utility for generating strong credentials
+        with entropy-based analysis, password history, and
+        100% client-side execution.
+      </p>
+    </div>
+  </section>
 
----
+  <!-- Experience -->
+  <section style="margin-bottom:44px;">
+    <h2 style="font-size:22px; margin-bottom:18px;">🏢 Professional Experience</h2>
 
-## Tech Stack
+    <p><b>Aixor Digital</b> — Web Developer (Sep 2025 – Present)</p>
+    <p style="opacity:0.85;">
+      Delivered 10+ production WordPress & Shopify platforms,
+      built custom themes, plugins, WooCommerce workflows,
+      and owned deployments, security, and maintenance.
+    </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,nodejs,express,firebase,python,php,wordpress,postgres,mongodb,mysql,aws,docker,git,github,linux,postman&perline=8&theme=light" />
-</p>
+    <p style="margin-top:14px;"><b>Scepter Enterprises Pvt. Ltd.</b> — IT Developer (Jan 2025 – Jul 2025)</p>
+    <p style="opacity:0.85;">
+      Customised Odoo ERP modules and built internal tools using
+      Flutterflow and Firebase.
+    </p>
 
----
+    <p style="margin-top:14px;"><b>Digisoft AI</b> — Web Developer (Jan 2025 – Present)</p>
+    <p style="opacity:0.85;">
+      Delivered and maintained 15+ WordPress projects, created reusable
+      components, optimised for SEO & performance, and trained developers.
+    </p>
+  </section>
 
-## Featured Projects
+  <!-- Education -->
+  <section style="margin-bottom:44px;">
+    <h2 style="font-size:22px; margin-bottom:14px;">🎓 Education & Credentials</h2>
+    <p>
+      <b>B.Tech — Computer Science & Engineering</b><br/>
+      Dr. Lankapalli Bullayya College of Engineering<br/>
+      CGPA: <b>7.52</b>
+    </p>
+  </section>
 
-| Project | Description | Stack |
-|----------|--------------|-------|
-| **Digisoft AI** | Corporate SEO-optimized WordPress platform | WordPress, Plugins, CI/CD |
-| **IntellifluxAI** | AI product website with Gutenberg customizations | WordPress, Cloudflare |
-| **Vizag IAS Academy** | Education portal with scalable CMS | WordPress, WooCommerce |
-| **AI EdTech Platform** | Adaptive learning with GenAI insights | Next.js, Firebase, Tailwind |
-| **AI Travel Planner** | Smart itinerary builder with OpenAI | React.js, Firebase |
-| **Odoo ERP Suite** | 8+ custom modules (Vendor, Commission, PWA) | Odoo, Python, PostgreSQL |
-| **AI Finance Manager** | Predictive analytics via ML | React Native, Firebase, Python |
+  <!-- Awards -->
+  <section style="margin-bottom:36px;">
+    <h2 style="font-size:22px; margin-bottom:14px;">🏆 Recognition</h2>
+    <p>Best Website Developer Award — Digisoft AI</p>
+  </section>
 
----
+  <!-- Footer -->
+  <div style="
+    text-align:center;
+    padding-top:28px;
+    border-top:1px solid rgba(255,255,255,0.08);
+    opacity:0.7;
+  ">
+    <i>I don’t just write code — I engineer systems.</i>
+  </div>
 
-## Live Projects
-
-- [digisoftai.com](https://digisoftai.com)  
-- [intellifluxai.com](https://intellifluxai.com)  
-- [vizagiasacademy.com](https://vizagiasacademy.com)  
-- [kaalishakthipeetham.com](https://kaalishakthipeetham.com)  
-- [perhitsiksha.org](https://perhitsiksha.org)
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbam&show_icons=true&hide_border=true&theme=transparent&icon_color=0ea5e9&title_color=0ea5e9" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbam&hide_border=true&theme=transparent&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" height="165" />
-</p>
-
----
-
-## Quick Access
-
-- **Resume:** [Sabbam Chandraneel.pdf](https://github.com/sabbam/sabbam/releases/latest)  
-- **Portfolio:** [https://neelportfolio.in](https://neelportfolio.in)  
-- **LinkedIn:** [linkedin.com/in/sabbam-chandraneel](https://www.linkedin.com/in/sabbam-chandraneel/)  
-
----
-
-## Collaboration & Engagement
-
-- Freelance / Contract Roles — Cloud • Full Stack • WordPress • SaaS  
-- Collaborations — AI & Automation Systems  
-- Mentorship — Full Stack, Cloud, and Project Architecture  
-
----
-
-<p align="center">
-  <sub style="color:#0ea5e9;">Timezone: Asia/Kolkata | Maintained via GitHub Actions | Updated: 2025-10-04</sub>
-</p>
+</div>
