@@ -1,6 +1,8 @@
 <div align="center">
-  
-<img src="./architect_premium_banner_final.png" width="100%" />
+  <div style="max-height: 250px; overflow: hidden; border-radius: 10px;">
+    <img src="./architect_banner.png" width="100%" style="margin-top: -150px; margin-bottom: -150px;" />
+  </div>
+</div>
 
 
 <p align="center">
